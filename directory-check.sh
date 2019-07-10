@@ -1,6 +1,6 @@
 #!/bin/bash
 
-directory= $/opt/devops-project/
+directory= $/opt/Devops-Project/
 
 # bash check if directory exists 
 
